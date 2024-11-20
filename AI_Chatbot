@@ -101,3 +101,5 @@ while True:
 
 # Why RAG is needed:
 print("\n**Why RAG is Needed**: Retrieval-Augmented Generation (RAG) is important because it allows the model to use external knowledge to answer questions accurately, leveraging the context from relevant documents. It ensures that the response is based on real, up-to-date information, rather than relying solely on pre-trained data.")
+
+# 영어 공부도 함께 하는 중이라 주석을 영어로 달았습니다..!
